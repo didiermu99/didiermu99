@@ -25,7 +25,7 @@ I'm a beginner in cybersecurity, eager to learn and grow in this exciting field.
 
 ## 🏅 Certifications
 
-- Google Cybersecurity Certificate
+- [Google Cybersecurity Certificate](https://www.credly.com/badges/128b21f3-9f21-4ffe-9f87-8c0155fb9ee4/public_url)
 
 ---
 
