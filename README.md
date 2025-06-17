@@ -23,6 +23,12 @@ I'm a beginner in cybersecurity, eager to learn and grow in this exciting field.
 
 ---
 
+## 🏅 Certifications
+
+- Google Cybersecurity Certificate
+
+---
+
 ## 🚩 Current Goals
 
 - [ ] Complete [TryHackMe's Introduction to Cyber Security](https://tryhackme.com/room/introtooffensivesecurity)
