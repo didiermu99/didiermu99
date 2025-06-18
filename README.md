@@ -48,7 +48,7 @@ I'm a beginner in cybersecurity, eager to learn and grow in this exciting field.
 ## 📫 How to Reach Me
 
 - Email: [didiermuhirwa1@gmail.com]
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/)
 
 
 ---
